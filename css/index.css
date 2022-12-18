@@ -1,0 +1,9 @@
+@import "./_base.css";
+@import "./components/_info.css";
+@import "./components/_goals.css";
+@import "./components/_educations.css";
+@import "./components/_experience.css";
+@import "./components/_activities.css";
+@import "./components/_skills.css";
+@import "./components/_degree.css";
+@import "./components/_projects.css";
